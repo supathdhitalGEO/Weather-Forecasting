@@ -23,3 +23,6 @@ To forecast  precipitation  from weather station’s data and satellite data usi
    1.3.2. Specific Objectives
 To forecast temperature using past data from weather stations.
 To make the weather portal for the visualization.
+
+# Raw Data
+It contains all the raw data that collected from the DHM directly.
