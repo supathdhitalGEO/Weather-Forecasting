@@ -25,4 +25,7 @@ To forecast temperature using past data from weather stations.
 To make the weather portal for the visualization.
 
 # Raw Data
-It contains all the raw data that collected from the DHM directly.
+It contains all the raw data that collected from the DHM directly.It contains several outliers and the missing values so we now have to make it frree from the outliers and missing value.
+
+# All Station Data
+It contains the data of all satation cleaned data in an organized form.It can be used for the modling.
