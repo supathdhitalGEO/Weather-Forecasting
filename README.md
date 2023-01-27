@@ -23,9 +23,12 @@ To forecast  precipitation  from weather station’s data and satellite data usi
    1.3.2. Specific Objectives
 To forecast temperature using past data from weather stations.
 To make the weather portal for the visualization.
-
+# This repository contains different folders:
 # Raw Data
 It contains all the raw data that collected from the DHM directly.It contains several outliers and the missing values so we now have to make it frree from the outliers and missing value.
 
 # All Station Data
-It contains the data of all satation cleaned data in an organized form.It can be used for the modling.
+It contains the data of all satation cleaned data in an organized form.It can be used for the modeling.
+
+# Modeling
+It contains all the files of modeling using the LSTM
