@@ -31,4 +31,4 @@ It contains all the raw data that collected from the DHM directly.It contains se
 It contains the data of all satation cleaned data in an organized form.It can be used for the modeling.
 
 # Modeling
-It contains all the files of modeling using the LSTM.
+It contains all the files of modeling using the LSTM. Our model will forecast the weather for next two hours for Pokhara airport station and rest of the data will forecasted daily. 
