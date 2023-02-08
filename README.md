@@ -30,5 +30,5 @@ It contains all the raw data that collected from the DHM directly.It contains se
 # All Station Data
 It contains the data of all satation cleaned data in an organized form.It can be used for the modeling. These data are free from outliers and the NaN values so, these data are used to forecast the weather.
 
-# Modeling
+# Model
 It contains all the files of modeling using the LSTM. Our model will forecast the weather for next two hours for Pokhara airport station and rest of the data will forecasted daily. 
