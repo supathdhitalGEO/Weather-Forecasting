@@ -32,3 +32,6 @@ It contains the data of all satation cleaned data in an organized form.It can be
 
 # Model
 It contains all the files of modeling using the Long Short Term Memory(LSTM). Our model will forecast the weather for next two hours for Pokhara airport station and rest of the data will forecasted daily. 
+
+
+Till now we have got an accuracy of 60% for the precipitation pattern to forecast precipitation value and 86% for the temperature data.
