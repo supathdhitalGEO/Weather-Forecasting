@@ -37,4 +37,4 @@ It contains all the files of modeling using the Long Short Term Memory(LSTM). Ou
 Till now we have got an accuracy of 60% for the precipitation pattern to forecast precipitation value and 86% for the temperature data.
 
 # Weather Portal
-All the predictions and the precipitaion trends are overviewed through the web application where we will show the prediction value of all stations with the last certain days graph trend.
+All the predictions and the precipitaion trends are overviewed through the web application where we will show the prediction value of all stations with the last certain days graph trends. This portal will work on the basis of the model that we developed and the database of  out dataset.
