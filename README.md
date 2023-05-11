@@ -8,8 +8,6 @@ ML modeling( we will use LSTM).It will contains different folders associated wit
 Weather can be introduced as a persistent, multidimensional, data-intensive and dynamic process that indicates the state of air on the earth at a particular time and place. Weather forecasting, the prediction of the condition of the atmosphere for a given location and time through the application of the principles of physics, has been one of the most technologically and scientifically complicated issues faced worldwide today. Early Numerical Weather Prediction (NWP) based weather forecasting, has been somehow replaced by Artificial Intelligence (AI) techniques these days.
 
 
-
-
 # All Station Data
 It contains the data of all satation cleaned data in an organized form.It can be used for the modeling. These data are free from outliers and the NaN values so, these data are used to forecast the weather.
 
